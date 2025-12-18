@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     title: "PT GLOBAL INOVATIF INDONESIA",
     description: "Innovation Beyond Boundaries - Leading business solutions and digital transformation in Indonesia",
   },
+  other: {
+    "facebook-domain-verification": "y0o1fmxul3cmug90hl3te2dgqll3u2",
+  },
 };
 
 export default function RootLayout({
